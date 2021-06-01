@@ -1,0 +1,30 @@
+body {
+    background-color: #42555E;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.flier {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.mask {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
